@@ -9,7 +9,7 @@ print ("Content-type: text/html\n")
 
 j = 0
 
-data = xlrd.open_workbook('85.xls')
+data = xlrd.open_workbook('.\\static\\85.xls')
 table = data.sheets()[0]
 nrows = table.nrows  # 行数
 ncols = table.ncols  # 列数
