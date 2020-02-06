@@ -64,11 +64,11 @@ def jwxt():
             message = "登录失败"
             return render_template('jwxt.html',message=message)
     return render_template('jwxt.html')
-'''
 
 @app.route('/rank')
 def Rank():
     return rank.Rank()
+'''
 
 @sockets.route('/echo')
 def echo_socket(ws):
