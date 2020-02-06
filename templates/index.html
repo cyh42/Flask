@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Welcome to LeanEngine!</title>
+    <link rel="stylesheet" href="/static/style.css" type="text/css">
+  </head>
+  <body>
+	<div id="datetime">
+		<script>
+			setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
+		</script>
+	</div>
+    <div id="container">
+      <h1>LeanEngine</h1>
+	  <p>这是 LeanEngine 的示例应用</p>
+      <p><a href="/me">成绩查询</a></p>
+	  <p><a href="/login">数字石大</a></p>
+	  <p><a href="/jwxt">教务系统</a></p>
+      <p><a href="/analysis">成绩分析</a></p>
+	  <p><a href="/rank">专业排名(部分)</a></p>
+	  <br></br>
+      <p><a href="/time">一个简单的动态路由示例</a></p>
+	  <p><a href="/todos">一个简单的「TODO 列表」示例</a></p>
+    </div>
+  </body>
+</html>
