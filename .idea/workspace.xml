@@ -78,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/rank.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -182,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="377" />
     <option name="y" value="472" />
     <option name="width" value="980" />
@@ -427,12 +427,12 @@
       <workItem from="1580290004574" duration="104000" />
       <workItem from="1580290310428" duration="157000" />
       <workItem from="1580989728687" duration="773000" />
-      <workItem from="1580990506053" duration="5937000" />
+      <workItem from="1580990506053" duration="6540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73160000" />
+    <option name="totallyTimeSpent" value="73763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="302" y="378" width="784" height="880" extended-state="0" />
@@ -952,7 +952,7 @@
     <entry file="file://$PROJECT_DIR$/rank.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
